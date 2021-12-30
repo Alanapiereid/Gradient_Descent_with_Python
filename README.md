@@ -9,6 +9,6 @@ This is just a simple explanation and visualization of the following:
 3) A break down of the fundamental math
 4) A visualization of the process
 
-![image](https://user-images.githubusercontent.com/56002246/147754184-fb46ca36-dc15-4931-adee-694732507b38.png)
+
 
 
