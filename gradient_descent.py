@@ -32,6 +32,7 @@ class Linear_Regression:
             # b update
             b = b - learning_rate * b_der
             cost = (1/n) * sum([i**2 for i in (y - y_pred)])
+            cost = round(cost, 4)
             plt.scatter(x,y)
             plt.plot([min(x), max(y)], [min(y_pred), max(y_pred)], color='green')
             plt.text(7.0, 17.5, f'{cost}', style='italic',
