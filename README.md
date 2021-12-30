@@ -2,7 +2,7 @@
 Visualization of Gradient Descent for Linear Regression in Python
 
 
-![Grad_Desc](https://user-images.githubusercontent.com/56002246/147755983-73a03afd-944e-4e98-91c8-3896b715f2f6.gif)
+![Grad](https://user-images.githubusercontent.com/56002246/147756992-3f110aed-105d-417c-8202-5245f9b024c4.gif)
 
 
 This is just a simple explanation and visualization of the following:
