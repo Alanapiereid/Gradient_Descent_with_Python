@@ -1,5 +1,5 @@
 # Gradient_Descent_with_Python
-Visualization of Linear Regression in Python
+Visualization of Gradient Descent for Linear Regression in Python
 
 
 This is just a simple explanation and visualization of the following:
