@@ -1,6 +1,8 @@
 # Gradient_Descent_with_Python
 Visualization of Gradient Descent for Linear Regression in Python
 
+![ Alt text](Grad_Desc. gif) / ! [](Grad_Desc. gif)
+
 
 This is just a simple explanation and visualization of the following:
 
