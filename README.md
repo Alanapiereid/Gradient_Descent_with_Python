@@ -1,4 +1,4 @@
-# Gradient_Descent_with_Python
+# Linear Regression from scratch with Python
 Visualization of Gradient Descent for Linear Regression in Python
 
 
